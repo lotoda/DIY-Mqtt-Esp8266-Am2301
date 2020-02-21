@@ -15,7 +15,7 @@ Kết nối từ NodeMCU ESP8266 như sau:
 # Sơ đồ chân của NodeMCU ESP8266 như sau:
 ![](https://raw.githubusercontent.com/lotoda/Lotoda-Mqtt-Esp/master/nodemcudevkit_v1-0_io.jpg)
 
-# Cảm biến nhiệt độ & độ ẩm AM2301
+# Cảm biến nhiệt độ & độ ẩm AM2301 (DHT21)
 ![](https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/3D/60/0348cf90-f0ce-40c2-a23c-faf1edf2dafb.JPG)
 
 Thông số kỹ thuật:
